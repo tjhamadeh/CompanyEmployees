@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\Documents\GitHub\CompanyEmployees\C++\Debug\CompanyEmployees.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CompanyTest.EmployeeNameTest" Duration="1" />
+    <TestDuration Test="CompanyTest.EmployeeTypeTest" Duration="1" />
+    <TestDuration Test="CompanyTest.EmployeeLengthTest" Duration="1" />
+    <TestDuration Test="CompanyTest.EmployeeVacationTest" Duration="1" />
+    <TestDuration Test="CompanyTest.EmployeeDurationTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
